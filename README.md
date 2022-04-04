@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @beryour
-- 👀 I’m interested in Data Analysis / Data Science
-- 🌱 I’m currently learning Data Science and Machine Learning
-- 💞️ I’m looking to collaborate on projects available on Data Science and MAchine Learning
+- 👀 I’m interested in DevOps/SRE
+- 🌱 I’m currently developing more on CI/CD and DevOps strategies
+- 💞️ I’m looking to collaborate on projects available on Coding, Deployment, Infrastructure building and Security
 - 📫 How to reach me: mcstevens8@yahoo.com or on twitter: @beryour
 
 <!---
